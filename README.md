@@ -1,4 +1,5 @@
-#climatesense.github.io 
+# climatesense.github.io
+
 ClimateSense is a cutting-edge weather startup, providing personalized and actionable weather insights to individuals, businesses, and governments.
 
 By leveraging state-of-the-art technology, ClimateSense offers real-time weather monitoring, data analysis, and predictive modeling to deliver accurate and comprehensive weather information. This information is presented in a user-friendly and intuitive interface, making it accessible and actionable for a wide range of users.
